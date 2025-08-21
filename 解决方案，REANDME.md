@@ -1,4 +1,4 @@
-NO.1 step：按下F12
+NO.1 step：按下F12,推出程序（密码为空，直接点确定）
 NO.2 step:win+R
 NO.3 step:输入"shell:common startup"并回车
 NO.4 step:删除其中的"WindowsUpdateFile.exe"
